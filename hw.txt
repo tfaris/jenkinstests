@@ -6,4 +6,6 @@ line 4 (edited on github)
 line 5 (edited on github)
 line 6
 line 7
-line 8
+line 8 (edited locally)
+line 8 (edited on github)
+
